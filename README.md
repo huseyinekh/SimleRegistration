@@ -1,5 +1,6 @@
 # SimleRegistration REACT NATIVE APP
  run this code : 
- -nstall expo cli 
+ 
+-install expo cli 
 - npm install
 - npm start
